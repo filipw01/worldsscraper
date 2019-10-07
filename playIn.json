@@ -220,10 +220,6 @@
     ],
     "name": "CG",
     "gameLength": "38:04",
-    "firstBlood": {
-      "id": "Ekko",
-      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Ekko.png"
-    },
     "bans": [
       {
         "id": "Syndra",
@@ -471,10 +467,6 @@
     ],
     "name": "UOL",
     "gameLength": "38:04",
-    "firstBlood": {
-      "id": "Ekko",
-      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Ekko.png"
-    },
     "bans": [
       {
         "id": "Pantheon",
@@ -1726,10 +1718,6 @@
     ],
     "name": "DFM",
     "gameLength": "39:29",
-    "firstBlood": {
-        "id": "Gragas",
-        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Gragas.png"
-    },
     "bans": [
       {
         "id": "Irelia",
@@ -1977,10 +1965,6 @@
     ],
     "name": "ISG",
     "gameLength": "39:29",
-    "firstBlood": {
-        "id": "Gragas",
-        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Gragas.png"
-    },
     "bans": [
       {
         "id": "Pantheon",
@@ -2730,10 +2714,6 @@
     ],
     "name": "SPY",
     "gameLength": "30:09",
-    "firstBlood": {
-      "id": "Gangplank",
-      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Gangplank.png"
-    },
     "bans": [
       {
         "id": "Yuumi",
@@ -2977,10 +2957,6 @@
     ],
     "name": "ISG",
     "gameLength": "30:09",
-    "firstBlood": {
-      "id": "Gangplank",
-      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Gangplank.png"
-    },
     "bans": [
       {
         "id": "Qiyana",
@@ -13440,5 +13416,3463 @@
     "inhibitors": " 0",
     "win": false,
     "goldDifferenceAt15": -3297
+  },
+  {
+    "players": [
+      {
+        "name": "Hani",
+        "kills": "1",
+        "deaths": "4",
+        "assists": "11",
+        "champion": {
+          "id": "Ornn",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Ornn.png"
+        },
+        "creeps": "210",
+        "gold": "12700",
+        "items": [
+          {
+            "id": "3111",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3111.png"
+          },
+          {
+            "id": "3193",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3193.png"
+          },
+          {
+            "id": "3190",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3190.png"
+          },
+          {
+            "id": "3379",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3379.png"
+          },
+          {
+            "id": "3387",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3387.png"
+          },
+          {
+            "id": "3340",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3340.png"
+          }
+        ],
+        "damage": "8800",
+        "position": "top"
+      },
+      {
+        "name": "DNK",
+        "kills": "1",
+        "deaths": "6",
+        "assists": "10",
+        "champion": {
+          "id": "Gragas",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Gragas.png"
+        },
+        "creeps": "151",
+        "gold": "12200",
+        "items": [
+          {
+            "id": "3905",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3905.png"
+          },
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "3386",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3386.png"
+          },
+          {
+            "id": "1402",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1402.png"
+          },
+          {
+            "id": "3067",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3067.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "11800",
+        "position": "jungle"
+      },
+      {
+        "name": "Artifact",
+        "kills": "2",
+        "deaths": "5",
+        "assists": "6",
+        "champion": {
+          "id": "TwistedFate",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/TwistedFate.png"
+        },
+        "creeps": "303",
+        "gold": "16800",
+        "items": [
+          {
+            "id": "3026",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3026.png"
+          },
+          {
+            "id": "3384",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3384.png"
+          },
+          {
+            "id": "3067",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3067.png"
+          },
+          {
+            "id": "3111",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3111.png"
+          },
+          {
+            "id": "3094",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3094.png"
+          },
+          {
+            "id": "3156",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3156.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "17200",
+        "position": "mid"
+      },
+      {
+        "name": "Celebrity",
+        "kills": "10",
+        "deaths": "3",
+        "assists": "6",
+        "champion": {
+          "id": "Tristana",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Tristana.png"
+        },
+        "creeps": "332",
+        "gold": "21800",
+        "items": [
+          {
+            "id": "3072",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3072.png"
+          },
+          {
+            "id": "3371",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3371.png"
+          },
+          {
+            "id": "3046",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3046.png"
+          },
+          {
+            "id": "3094",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3094.png"
+          },
+          {
+            "id": "3111",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3111.png"
+          },
+          {
+            "id": "3026",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3026.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "37900",
+        "position": "adc"
+      },
+      {
+        "name": "Venus",
+        "kills": "2",
+        "deaths": "7",
+        "assists": "10",
+        "champion": {
+          "id": "Shen",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Shen.png"
+        },
+        "creeps": "85",
+        "gold": "12100",
+        "items": [
+          {
+            "id": "3401",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3401.png"
+          },
+          {
+            "id": "3109",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3109.png"
+          },
+          {
+            "id": "3383",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3383.png"
+          },
+          {
+            "id": "3111",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3111.png"
+          },
+          {
+            "id": "3211",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3211.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "4000",
+        "position": "support"
+      }
+    ],
+    "name": "LK",
+    "gameLength": "41:40",
+    "firstBlood": {
+      "id": "Tristana",
+      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Tristana.png"
+    },
+    "bans": [
+      {
+        "id": "Renekton",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Renekton.png"
+      },
+      {
+        "id": "Leblanc",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Leblanc.png"
+      },
+      {
+        "id": "Xayah",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Xayah.png"
+      },
+      {
+        "id": "Olaf",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Olaf.png"
+      },
+      {
+        "id": "LeeSin",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/LeeSin.png"
+      }
+    ],
+    "herald": " 1",
+    "barons": " 2",
+    "dragons": " 2",
+    "towers": " 10",
+    "inhibitors": " 2",
+    "win": true,
+    "goldDifferenceAt15": 3745
+  },
+  {
+    "players": [
+      {
+        "name": "Nuguri",
+        "kills": "8",
+        "deaths": "4",
+        "assists": "9",
+        "champion": {
+          "id": "Vladimir",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Vladimir.png"
+        },
+        "creeps": "309",
+        "gold": "19200",
+        "items": [
+          {
+            "id": "3152",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3152.png"
+          },
+          {
+            "id": "3907",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3907.png"
+          },
+          {
+            "id": "3102",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3102.png"
+          },
+          {
+            "id": "3135",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3135.png"
+          },
+          {
+            "id": "3089",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3089.png"
+          },
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "27400",
+        "position": "top"
+      },
+      {
+        "name": "Canyon",
+        "kills": "4",
+        "deaths": "4",
+        "assists": "10",
+        "champion": {
+          "id": "Qiyana",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Qiyana.png"
+        },
+        "creeps": "203",
+        "gold": "13600",
+        "items": [
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "3814",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3814.png"
+          },
+          {
+            "id": "3026",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3026.png"
+          },
+          {
+            "id": "3147",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3147.png"
+          },
+          {
+            "id": "1412",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1412.png"
+          },
+          {
+            "id": "3117",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3117.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "17700",
+        "position": "jungle"
+      },
+      {
+        "name": "ShowMaker",
+        "kills": "7",
+        "deaths": "3",
+        "assists": "10",
+        "champion": {
+          "id": "Akali",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Akali.png"
+        },
+        "creeps": "338",
+        "gold": "17100",
+        "items": [
+          {
+            "id": "3165",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3165.png"
+          },
+          {
+            "id": "3146",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3146.png"
+          },
+          {
+            "id": "3157",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3157.png"
+          },
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "1058",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1058.png"
+          },
+          {
+            "id": "3135",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3135.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "19800",
+        "position": "mid"
+      },
+      {
+        "name": "Nuclear",
+        "kills": "3",
+        "deaths": "3",
+        "assists": "8",
+        "champion": {
+          "id": "Garen",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Garen.png"
+        },
+        "creeps": "259",
+        "gold": "14400",
+        "items": [
+          {
+            "id": "3071",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3071.png"
+          },
+          {
+            "id": "3143",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3143.png"
+          },
+          {
+            "id": "3401",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3401.png"
+          },
+          {
+            "id": "3742",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3742.png"
+          },
+          {
+            "id": "3111",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3111.png"
+          },
+          {
+            "id": "3076",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3076.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "7200",
+        "position": "adc"
+      },
+      {
+        "name": "BeryL",
+        "kills": "3",
+        "deaths": "2",
+        "assists": "21",
+        "champion": {
+          "id": "Yuumi",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Yuumi.png"
+        },
+        "creeps": "94",
+        "gold": "14100",
+        "items": [
+          {
+            "id": "3098",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3098.png"
+          },
+          {
+            "id": "3089",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3089.png"
+          },
+          {
+            "id": "3174",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3174.png"
+          },
+          {
+            "id": "3041",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3041.png"
+          },
+          {
+            "id": "3285",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3285.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "27300",
+        "position": "support"
+      }
+    ],
+    "name": "DWG",
+    "gameLength": "41:40",
+    "firstBlood": {
+      "id": "Tristana",
+      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Tristana.png"
+    },
+    "bans": [
+      {
+        "id": "Pantheon",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Pantheon.png"
+      },
+      {
+        "id": "Elise",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Elise.png"
+      },
+      {
+        "id": "Syndra",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Syndra.png"
+      },
+      {
+        "id": "Vayne",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Vayne.png"
+      },
+      {
+        "id": "Caitlyn",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Caitlyn.png"
+      }
+    ],
+    "herald": " 0",
+    "barons": " 0",
+    "dragons": " 4",
+    "towers": " 7",
+    "inhibitors": " 1",
+    "win": false,
+    "goldDifferenceAt15": -3745
+  },
+  {
+    "players": [
+      {
+        "name": "Huni",
+        "kills": "3",
+        "deaths": "1",
+        "assists": "7",
+        "champion": {
+          "id": "Rumble",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Rumble.png"
+        },
+        "creeps": "249",
+        "gold": "12300",
+        "items": [
+          {
+            "id": "3157",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3157.png"
+          },
+          {
+            "id": "1052",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1052.png"
+          },
+          {
+            "id": "3151",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3151.png"
+          },
+          {
+            "id": "3135",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3135.png"
+          },
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "13300",
+        "position": "top"
+      },
+      {
+        "name": "Lira",
+        "kills": "3",
+        "deaths": "1",
+        "assists": "6",
+        "champion": {
+          "id": "Elise",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Elise.png"
+        },
+        "creeps": "175",
+        "gold": "11300",
+        "items": [
+          {
+            "id": "2420",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2420.png"
+          },
+          {
+            "id": "3165",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3165.png"
+          },
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "1414",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1414.png"
+          },
+          {
+            "id": "3191",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3191.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "6900",
+        "position": "jungle"
+      },
+      {
+        "name": "Damonte",
+        "kills": "5",
+        "deaths": "2",
+        "assists": "1",
+        "champion": {
+          "id": "Lucian",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Lucian.png"
+        },
+        "creeps": "277",
+        "gold": "13000",
+        "items": [
+          {
+            "id": "3006",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3006.png"
+          },
+          {
+            "id": "3153",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3153.png"
+          },
+          {
+            "id": "3508",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3508.png"
+          },
+          {
+            "id": "3031",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3031.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "15300",
+        "position": "mid"
+      },
+      {
+        "name": "Cody Sun",
+        "kills": "2",
+        "deaths": "0",
+        "assists": "4",
+        "champion": {
+          "id": "Kaisa",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Kaisa.png"
+        },
+        "creeps": "311",
+        "gold": "13100",
+        "items": [
+          {
+            "id": "3042",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3042.png"
+          },
+          {
+            "id": "3140",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3140.png"
+          },
+          {
+            "id": "3124",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3124.png"
+          },
+          {
+            "id": "3006",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3006.png"
+          },
+          {
+            "id": "3085",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3085.png"
+          },
+          {
+            "id": "1055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1055.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "11100",
+        "position": "adc"
+      },
+      {
+        "name": "Vulcan",
+        "kills": "0",
+        "deaths": "2",
+        "assists": "8",
+        "champion": {
+          "id": "Nautilus",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Nautilus.png"
+        },
+        "creeps": "46",
+        "gold": "7500",
+        "items": [
+          {
+            "id": "3105",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3105.png"
+          },
+          {
+            "id": "3401",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3401.png"
+          },
+          {
+            "id": "3117",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3117.png"
+          },
+          {
+            "id": "3024",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3024.png"
+          },
+          {
+            "id": "2424",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2424.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "3100",
+        "position": "support"
+      }
+    ],
+    "name": "CG",
+    "gameLength": "29:59",
+    "firstBlood": {
+      "id": "Lucian",
+      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Lucian.png"
+    },
+    "bans": [
+      {
+        "id": "LeeSin",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/LeeSin.png"
+      },
+      {
+        "id": "Qiyana",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Qiyana.png"
+      },
+      {
+        "id": "Irelia",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Irelia.png"
+      },
+      {
+        "id": "Camille",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Camille.png"
+      },
+      {
+        "id": "Draven",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Draven.png"
+      }
+    ],
+    "herald": " 1",
+    "barons": " 1",
+    "dragons": " 2",
+    "towers": " 8",
+    "inhibitors": " 1",
+    "win": true,
+    "goldDifferenceAt15": 3475
+  },
+  {
+    "players": [
+      {
+        "name": "Armut",
+        "kills": "3",
+        "deaths": "2",
+        "assists": "0",
+        "champion": {
+          "id": "Kled",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Kled.png"
+        },
+        "creeps": "233",
+        "gold": "11100",
+        "items": [
+          {
+            "id": "3071",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3071.png"
+          },
+          {
+            "id": "3052",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3052.png"
+          },
+          {
+            "id": "3077",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3077.png"
+          },
+          {
+            "id": "1033",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1033.png"
+          },
+          {
+            "id": "3047",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3047.png"
+          },
+          {
+            "id": "3155",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3155.png"
+          },
+          {
+            "id": "3340",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3340.png"
+          }
+        ],
+        "damage": "5400",
+        "position": "top"
+      },
+      {
+        "name": "Closer",
+        "kills": "2",
+        "deaths": "2",
+        "assists": "2",
+        "champion": {
+          "id": "Olaf",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Olaf.png"
+        },
+        "creeps": "134",
+        "gold": "8200",
+        "items": [
+          {
+            "id": "1400",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1400.png"
+          },
+          {
+            "id": "3111",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3111.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "1029",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1029.png"
+          },
+          {
+            "id": "3071",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3071.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "4200",
+        "position": "jungle"
+      },
+      {
+        "name": "Cyeol",
+        "kills": "0",
+        "deaths": "3",
+        "assists": "2",
+        "champion": {
+          "id": "Leblanc",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Leblanc.png"
+        },
+        "creeps": "230",
+        "gold": "9200",
+        "items": [
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "3285",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3285.png"
+          },
+          {
+            "id": "1058",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1058.png"
+          },
+          {
+            "id": "1058",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1058.png"
+          },
+          {
+            "id": "3108",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3108.png"
+          },
+          {
+            "id": "1082",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1082.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "4800",
+        "position": "mid"
+      },
+      {
+        "name": "Pilot",
+        "kills": "1",
+        "deaths": "2",
+        "assists": "2",
+        "champion": {
+          "id": "Jinx",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Jinx.png"
+        },
+        "creeps": "302",
+        "gold": "11700",
+        "items": [
+          {
+            "id": "1042",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1042.png"
+          },
+          {
+            "id": "3155",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3155.png"
+          },
+          {
+            "id": "3006",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3006.png"
+          },
+          {
+            "id": "3031",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3031.png"
+          },
+          {
+            "id": "3086",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3086.png"
+          },
+          {
+            "id": "3094",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3094.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "7600",
+        "position": "adc"
+      },
+      {
+        "name": "Tolerant",
+        "kills": "0",
+        "deaths": "4",
+        "assists": "3",
+        "champion": {
+          "id": "Thresh",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Thresh.png"
+        },
+        "creeps": "18",
+        "gold": "6300",
+        "items": [
+          {
+            "id": "3069",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3069.png"
+          },
+          {
+            "id": "2424",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2424.png"
+          },
+          {
+            "id": "3050",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3050.png"
+          },
+          {
+            "id": "3117",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3117.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "2200",
+        "position": "support"
+      }
+    ],
+    "name": "RYL",
+    "gameLength": "29:59",
+    "firstBlood": {
+      "id": "Lucian",
+      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Lucian.png"
+    },
+    "bans": [
+      {
+        "id": "Pantheon",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Pantheon.png"
+      },
+      {
+        "id": "Syndra",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Syndra.png"
+      },
+      {
+        "id": "Rakan",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Rakan.png"
+      },
+      {
+        "id": "Lissandra",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Lissandra.png"
+      },
+      {
+        "id": "TwistedFate",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/TwistedFate.png"
+      }
+    ],
+    "herald": " 0",
+    "barons": " 0",
+    "dragons": " 2",
+    "towers": " 1",
+    "inhibitors": " 0",
+    "win": false,
+    "goldDifferenceAt15": -3475
+  },
+  {
+    "players": [
+      {
+        "name": "Nuguri",
+        "kills": "1",
+        "deaths": "2",
+        "assists": "0",
+        "champion": {
+          "id": "Renekton",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Renekton.png"
+        },
+        "creeps": "215",
+        "gold": "9800",
+        "items": [
+          {
+            "id": "2421",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2421.png"
+          },
+          {
+            "id": "1036",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1036.png"
+          },
+          {
+            "id": "1028",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1028.png"
+          },
+          {
+            "id": "3071",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3071.png"
+          },
+          {
+            "id": "3161",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3161.png"
+          },
+          {
+            "id": "3111",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3111.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "2600",
+        "position": "top"
+      },
+      {
+        "name": "Canyon",
+        "kills": "2",
+        "deaths": "0",
+        "assists": "7",
+        "champion": {
+          "id": "Taliyah",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Taliyah.png"
+        },
+        "creeps": "146",
+        "gold": "9500",
+        "items": [
+          {
+            "id": "2421",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2421.png"
+          },
+          {
+            "id": "3102",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3102.png"
+          },
+          {
+            "id": "1052",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1052.png"
+          },
+          {
+            "id": "1402",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1402.png"
+          },
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "3340",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3340.png"
+          }
+        ],
+        "damage": "8100",
+        "position": "jungle"
+      },
+      {
+        "name": "ShowMaker",
+        "kills": "2",
+        "deaths": "0",
+        "assists": "3",
+        "champion": {
+          "id": "Qiyana",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Qiyana.png"
+        },
+        "creeps": "222",
+        "gold": "10300",
+        "items": [
+          {
+            "id": "3077",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3077.png"
+          },
+          {
+            "id": "3142",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3142.png"
+          },
+          {
+            "id": "3117",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3117.png"
+          },
+          {
+            "id": "3147",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3147.png"
+          },
+          {
+            "id": "1037",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1037.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "6400",
+        "position": "mid"
+      },
+      {
+        "name": "Nuclear",
+        "kills": "5",
+        "deaths": "0",
+        "assists": "4",
+        "champion": {
+          "id": "Kaisa",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Kaisa.png"
+        },
+        "creeps": "253",
+        "gold": "13100",
+        "items": [
+          {
+            "id": "3115",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3115.png"
+          },
+          {
+            "id": "3042",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3042.png"
+          },
+          {
+            "id": "3140",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3140.png"
+          },
+          {
+            "id": "3124",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3124.png"
+          },
+          {
+            "id": "3006",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3006.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "5100",
+        "position": "adc"
+      },
+      {
+        "name": "BeryL",
+        "kills": "1",
+        "deaths": "1",
+        "assists": "7",
+        "champion": {
+          "id": "Alistar",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Alistar.png"
+        },
+        "creeps": "45",
+        "gold": "6800",
+        "items": [
+          {
+            "id": "3401",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3401.png"
+          },
+          {
+            "id": "2031",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2031.png"
+          },
+          {
+            "id": "3117",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3117.png"
+          },
+          {
+            "id": "3024",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3024.png"
+          },
+          {
+            "id": "3067",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3067.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "1900",
+        "position": "support"
+      }
+    ],
+    "name": "DWG",
+    "gameLength": "26:13",
+    "firstBlood": {
+      "id": "Gragas",
+      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Gragas.png"
+    },
+    "bans": [
+      {
+        "id": "Ornn",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Ornn.png"
+      },
+      {
+        "id": "Tristana",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Tristana.png"
+      },
+      {
+        "id": "Syndra",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Syndra.png"
+      },
+      {
+        "id": "Caitlyn",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Caitlyn.png"
+      },
+      {
+        "id": "Kled",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Kled.png"
+      }
+    ],
+    "herald": " 1",
+    "barons": " 1",
+    "dragons": " 3",
+    "towers": " 8",
+    "inhibitors": " 1",
+    "win": true,
+    "goldDifferenceAt15": 2952
+  },
+  {
+    "players": [
+      {
+        "name": "Hani",
+        "kills": "1",
+        "deaths": "2",
+        "assists": "1",
+        "champion": {
+          "id": "Pyke",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Pyke.png"
+        },
+        "creeps": "185",
+        "gold": "8300",
+        "items": [
+          {
+            "id": "3117",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3117.png"
+          },
+          {
+            "id": "3142",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3142.png"
+          },
+          {
+            "id": "3077",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3077.png"
+          },
+          {
+            "id": "3147",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3147.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "2600",
+        "position": "top"
+      },
+      {
+        "name": "DNK",
+        "kills": "1",
+        "deaths": "2",
+        "assists": "1",
+        "champion": {
+          "id": "Gragas",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Gragas.png"
+        },
+        "creeps": "124",
+        "gold": "7500",
+        "items": [
+          {
+            "id": "3157",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3157.png"
+          },
+          {
+            "id": "1402",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1402.png"
+          },
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "5500",
+        "position": "jungle"
+      },
+      {
+        "name": "Artifact",
+        "kills": "0",
+        "deaths": "3",
+        "assists": "1",
+        "champion": {
+          "id": "TwistedFate",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/TwistedFate.png"
+        },
+        "creeps": "227",
+        "gold": "9800",
+        "items": [
+          {
+            "id": "2033",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2033.png"
+          },
+          {
+            "id": "2423",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2423.png"
+          },
+          {
+            "id": "3094",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3094.png"
+          },
+          {
+            "id": "3047",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3047.png"
+          },
+          {
+            "id": "3078",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3078.png"
+          },
+          {
+            "id": "3108",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3108.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "6400",
+        "position": "mid"
+      },
+      {
+        "name": "Celebrity",
+        "kills": "0",
+        "deaths": "3",
+        "assists": "1",
+        "champion": {
+          "id": "Lucian",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Lucian.png"
+        },
+        "creeps": "234",
+        "gold": "8800",
+        "items": [
+          {
+            "id": "3153",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3153.png"
+          },
+          {
+            "id": "1038",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1038.png"
+          },
+          {
+            "id": "2422",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2422.png"
+          },
+          {
+            "id": "1055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1055.png"
+          },
+          {
+            "id": "3508",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3508.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "3200",
+        "position": "adc"
+      },
+      {
+        "name": "Venus",
+        "kills": "1",
+        "deaths": "1",
+        "assists": "1",
+        "champion": {
+          "id": "Thresh",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Thresh.png"
+        },
+        "creeps": "14",
+        "gold": "5400",
+        "items": [
+          {
+            "id": "3069",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3069.png"
+          },
+          {
+            "id": "2423",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2423.png"
+          },
+          {
+            "id": "3024",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3024.png"
+          },
+          {
+            "id": "2010",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2010.png"
+          },
+          {
+            "id": "3117",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3117.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "2100",
+        "position": "support"
+      }
+    ],
+    "name": "LK",
+    "gameLength": "26:13",
+    "firstBlood": {
+      "id": "Gragas",
+      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Gragas.png"
+    },
+    "bans": [
+      {
+        "id": "Pantheon",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Pantheon.png"
+      },
+      {
+        "id": "Leblanc",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Leblanc.png"
+      },
+      {
+        "id": "Xayah",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Xayah.png"
+      },
+      {
+        "id": "Vladimir",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Vladimir.png"
+      },
+      {
+        "id": "Ryze",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Ryze.png"
+      }
+    ],
+    "herald": " 0",
+    "barons": " 0",
+    "dragons": " 1",
+    "towers": " 0",
+    "inhibitors": " 0",
+    "win": false,
+    "goldDifferenceAt15": -2952
+  },
+  {
+    "players": [
+      {
+        "name": "Nuguri",
+        "kills": "2",
+        "deaths": "3",
+        "assists": "8",
+        "champion": {
+          "id": "Jayce",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Jayce.png"
+        },
+        "creeps": "334",
+        "gold": "16900",
+        "items": [
+          {
+            "id": "3142",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3142.png"
+          },
+          {
+            "id": "3814",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3814.png"
+          },
+          {
+            "id": "3140",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3140.png"
+          },
+          {
+            "id": "3147",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3147.png"
+          },
+          {
+            "id": "3071",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3071.png"
+          },
+          {
+            "id": "3047",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3047.png"
+          },
+          {
+            "id": "3340",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3340.png"
+          }
+        ],
+        "damage": "20000",
+        "position": "top"
+      },
+      {
+        "name": "Canyon",
+        "kills": "2",
+        "deaths": "2",
+        "assists": "7",
+        "champion": {
+          "id": "Taliyah",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Taliyah.png"
+        },
+        "creeps": "189",
+        "gold": "11800",
+        "items": [
+          {
+            "id": "3157",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3157.png"
+          },
+          {
+            "id": "1402",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1402.png"
+          },
+          {
+            "id": "3102",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3102.png"
+          },
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "3340",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3340.png"
+          }
+        ],
+        "damage": "14500",
+        "position": "jungle"
+      },
+      {
+        "name": "ShowMaker",
+        "kills": "4",
+        "deaths": "2",
+        "assists": "7",
+        "champion": {
+          "id": "Renekton",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Renekton.png"
+        },
+        "creeps": "260",
+        "gold": "13900",
+        "items": [
+          {
+            "id": "3026",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3026.png"
+          },
+          {
+            "id": "3105",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3105.png"
+          },
+          {
+            "id": "1057",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1057.png"
+          },
+          {
+            "id": "3111",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3111.png"
+          },
+          {
+            "id": "3161",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3161.png"
+          },
+          {
+            "id": "3071",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3071.png"
+          },
+          {
+            "id": "3340",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3340.png"
+          }
+        ],
+        "damage": "10400",
+        "position": "mid"
+      },
+      {
+        "name": "Nuclear",
+        "kills": "5",
+        "deaths": "3",
+        "assists": "7",
+        "champion": {
+          "id": "Yasuo",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Yasuo.png"
+        },
+        "creeps": "301",
+        "gold": "15500",
+        "items": [
+          {
+            "id": "3156",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3156.png"
+          },
+          {
+            "id": "3031",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3031.png"
+          },
+          {
+            "id": "3139",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3139.png"
+          },
+          {
+            "id": "2420",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2420.png"
+          },
+          {
+            "id": "3006",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3006.png"
+          },
+          {
+            "id": "3087",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3087.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "7700",
+        "position": "adc"
+      },
+      {
+        "name": "BeryL",
+        "kills": "1",
+        "deaths": "4",
+        "assists": "10",
+        "champion": {
+          "id": "Gragas",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Gragas.png"
+        },
+        "creeps": "21",
+        "gold": "8800",
+        "items": [
+          {
+            "id": "3098",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3098.png"
+          },
+          {
+            "id": "3140",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3140.png"
+          },
+          {
+            "id": "3050",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3050.png"
+          },
+          {
+            "id": "3158",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3158.png"
+          },
+          {
+            "id": "3067",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3067.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "8200",
+        "position": "support"
+      }
+    ],
+    "name": "DWG",
+    "gameLength": "33:06",
+    "firstBlood": {
+      "id": "Kaisa",
+      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Kaisa.png"
+    },
+    "bans": [
+      {
+        "id": "Ornn",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Ornn.png"
+      },
+      {
+        "id": "Tristana",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Tristana.png"
+      },
+      {
+        "id": "Syndra",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Syndra.png"
+      },
+      {
+        "id": "Elise",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Elise.png"
+      },
+      {
+        "id": "RekSai",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/RekSai.png"
+      }
+    ],
+    "herald": " 1",
+    "barons": " 2",
+    "dragons": " 3",
+    "towers": " 11",
+    "inhibitors": " 3",
+    "win": true,
+    "goldDifferenceAt15": 3048
+  },
+  {
+    "players": [
+      {
+        "name": "Hani",
+        "kills": "3",
+        "deaths": "3",
+        "assists": "4",
+        "champion": {
+          "id": "Gnar",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Gnar.png"
+        },
+        "creeps": "263",
+        "gold": "12300",
+        "items": [
+          {
+            "id": "3047",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3047.png"
+          },
+          {
+            "id": "3193",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3193.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "3071",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3071.png"
+          },
+          {
+            "id": "3022",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3022.png"
+          },
+          {
+            "id": "1011",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1011.png"
+          },
+          {
+            "id": "3340",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3340.png"
+          }
+        ],
+        "damage": "8200",
+        "position": "top"
+      },
+      {
+        "name": "DNK",
+        "kills": "0",
+        "deaths": "4",
+        "assists": "7",
+        "champion": {
+          "id": "Skarner",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Skarner.png"
+        },
+        "creeps": "114",
+        "gold": "8000",
+        "items": [
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "2420",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2420.png"
+          },
+          {
+            "id": "3047",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3047.png"
+          },
+          {
+            "id": "1401",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1401.png"
+          },
+          {
+            "id": "1011",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1011.png"
+          },
+          {
+            "id": "1031",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1031.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "3500",
+        "position": "jungle"
+      },
+      {
+        "name": "Artifact",
+        "kills": "5",
+        "deaths": "2",
+        "assists": "3",
+        "champion": {
+          "id": "Akali",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Akali.png"
+        },
+        "creeps": "274",
+        "gold": "12800",
+        "items": [
+          {
+            "id": "1054",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1054.png"
+          },
+          {
+            "id": "3157",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3157.png"
+          },
+          {
+            "id": "3146",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3146.png"
+          },
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "3135",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3135.png"
+          },
+          {
+            "id": "3082",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3082.png"
+          },
+          {
+            "id": "3340",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3340.png"
+          }
+        ],
+        "damage": "12700",
+        "position": "mid"
+      },
+      {
+        "name": "Celebrity",
+        "kills": "4",
+        "deaths": "3",
+        "assists": "5",
+        "champion": {
+          "id": "Kaisa",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Kaisa.png"
+        },
+        "creeps": "318",
+        "gold": "14800",
+        "items": [
+          {
+            "id": "3157",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3157.png"
+          },
+          {
+            "id": "3108",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3108.png"
+          },
+          {
+            "id": "3115",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3115.png"
+          },
+          {
+            "id": "3006",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3006.png"
+          },
+          {
+            "id": "3042",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3042.png"
+          },
+          {
+            "id": "3124",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3124.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "15900",
+        "position": "adc"
+      },
+      {
+        "name": "Venus",
+        "kills": "2",
+        "deaths": "3",
+        "assists": "10",
+        "champion": {
+          "id": "Leona",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Leona.png"
+        },
+        "creeps": "75",
+        "gold": "8600",
+        "items": [
+          {
+            "id": "3401",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3401.png"
+          },
+          {
+            "id": "3109",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3109.png"
+          },
+          {
+            "id": "3047",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3047.png"
+          },
+          {
+            "id": "1029",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1029.png"
+          },
+          {
+            "id": "3024",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3024.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "4700",
+        "position": "support"
+      }
+    ],
+    "name": "LK",
+    "gameLength": "33:06",
+    "firstBlood": {
+      "id": "Kaisa",
+      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Kaisa.png"
+    },
+    "bans": [
+      {
+        "id": "Pantheon",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Pantheon.png"
+      },
+      {
+        "id": "Leblanc",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Leblanc.png"
+      },
+      {
+        "id": "Xayah",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Xayah.png"
+      },
+      {
+        "id": "Alistar",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Alistar.png"
+      },
+      {
+        "id": "Morgana",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Morgana.png"
+      }
+    ],
+    "herald": " 0",
+    "barons": " 0",
+    "dragons": " 1",
+    "towers": " 2",
+    "inhibitors": " 0",
+    "win": false,
+    "goldDifferenceAt15": -3048
+  },
+  {
+    "players": [
+      {
+        "name": "Hani",
+        "kills": "0",
+        "deaths": "1",
+        "assists": "1",
+        "champion": {
+          "id": "Aatrox",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Aatrox.png"
+        },
+        "creeps": "171",
+        "gold": "6900",
+        "items": [
+          {
+            "id": "3047",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3047.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "2421",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2421.png"
+          },
+          {
+            "id": "3071",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3071.png"
+          },
+          {
+            "id": "3133",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3133.png"
+          },
+          {
+            "id": "3340",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3340.png"
+          }
+        ],
+        "damage": "2300",
+        "position": "top"
+      },
+      {
+        "name": "DNK",
+        "kills": "1",
+        "deaths": "2",
+        "assists": "1",
+        "champion": {
+          "id": "Nidalee",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Nidalee.png"
+        },
+        "creeps": "102",
+        "gold": "6300",
+        "items": [
+          {
+            "id": "1414",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1414.png"
+          },
+          {
+            "id": "2031",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2031.png"
+          },
+          {
+            "id": "1026",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1026.png"
+          },
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "3108",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3108.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "4700",
+        "position": "jungle"
+      },
+      {
+        "name": "Artifact",
+        "kills": "0",
+        "deaths": "2",
+        "assists": "1",
+        "champion": {
+          "id": "Yasuo",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Yasuo.png"
+        },
+        "creeps": "201",
+        "gold": "7600",
+        "items": [
+          {
+            "id": "3053",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3053.png"
+          },
+          {
+            "id": "3087",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3087.png"
+          },
+          {
+            "id": "3006",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3006.png"
+          },
+          {
+            "id": "3340",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3340.png"
+          }
+        ],
+        "damage": "5000",
+        "position": "mid"
+      },
+      {
+        "name": "Celebrity",
+        "kills": "1",
+        "deaths": "4",
+        "assists": "0",
+        "champion": {
+          "id": "Ezreal",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Ezreal.png"
+        },
+        "creeps": "166",
+        "gold": "7200",
+        "items": [
+          {
+            "id": "3025",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3025.png"
+          },
+          {
+            "id": "1036",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1036.png"
+          },
+          {
+            "id": "3158",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3158.png"
+          },
+          {
+            "id": "3042",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3042.png"
+          },
+          {
+            "id": "1054",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1054.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "6300",
+        "position": "adc"
+      },
+      {
+        "name": "Venus",
+        "kills": "0",
+        "deaths": "4",
+        "assists": "1",
+        "champion": {
+          "id": "Gragas",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Gragas.png"
+        },
+        "creeps": "18",
+        "gold": "4200",
+        "items": [
+          {
+            "id": "3098",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3098.png"
+          },
+          {
+            "id": "2424",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2424.png"
+          },
+          {
+            "id": "3158",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3158.png"
+          },
+          {
+            "id": "2031",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2031.png"
+          },
+          {
+            "id": "3067",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3067.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "4000",
+        "position": "support"
+      }
+    ],
+    "name": "LK",
+    "gameLength": "22:43",
+    "firstBlood": {
+      "id": "Xayah",
+      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Xayah.png"
+    },
+    "bans": [
+      {
+        "id": "Renekton",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Renekton.png"
+      },
+      {
+        "id": "Leblanc",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Leblanc.png"
+      },
+      {
+        "id": "Taliyah",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Taliyah.png"
+      },
+      {
+        "id": "Rakan",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Rakan.png"
+      },
+      {
+        "id": "Nautilus",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Nautilus.png"
+      }
+    ],
+    "herald": " 0",
+    "barons": " 0",
+    "dragons": " 0",
+    "towers": " 0",
+    "inhibitors": " 0",
+    "win": false,
+    "goldDifferenceAt15": -8152
+  },
+  {
+    "players": [
+      {
+        "name": "Nuguri",
+        "kills": "3",
+        "deaths": "1",
+        "assists": "2",
+        "champion": {
+          "id": "Kennen",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Kennen.png"
+        },
+        "creeps": "213",
+        "gold": "12000",
+        "items": [
+          {
+            "id": "3152",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3152.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "3089",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3089.png"
+          },
+          {
+            "id": "3165",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3165.png"
+          },
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "11900",
+        "position": "top"
+      },
+      {
+        "name": "Canyon",
+        "kills": "0",
+        "deaths": "0",
+        "assists": "5",
+        "champion": {
+          "id": "LeeSin",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/LeeSin.png"
+        },
+        "creeps": "128",
+        "gold": "8000",
+        "items": [
+          {
+            "id": "2421",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2421.png"
+          },
+          {
+            "id": "3044",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3044.png"
+          },
+          {
+            "id": "3067",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3067.png"
+          },
+          {
+            "id": "1412",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1412.png"
+          },
+          {
+            "id": "3047",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3047.png"
+          },
+          {
+            "id": "3340",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3340.png"
+          }
+        ],
+        "damage": "4200",
+        "position": "jungle"
+      },
+      {
+        "name": "ShowMaker",
+        "kills": "6",
+        "deaths": "0",
+        "assists": "2",
+        "champion": {
+          "id": "Akali",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Akali.png"
+        },
+        "creeps": "220",
+        "gold": "10500",
+        "items": [
+          {
+            "id": "3146",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3146.png"
+          },
+          {
+            "id": "2421",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2421.png"
+          },
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "3108",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3108.png"
+          },
+          {
+            "id": "1058",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1058.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "10200",
+        "position": "mid"
+      },
+      {
+        "name": "Nuclear",
+        "kills": "4",
+        "deaths": "1",
+        "assists": "3",
+        "champion": {
+          "id": "Xayah",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Xayah.png"
+        },
+        "creeps": "246",
+        "gold": "12000",
+        "items": [
+          {
+            "id": "3031",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3031.png"
+          },
+          {
+            "id": "3508",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3508.png"
+          },
+          {
+            "id": "3094",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3094.png"
+          },
+          {
+            "id": "3006",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3006.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "8000",
+        "position": "adc"
+      },
+      {
+        "name": "BeryL",
+        "kills": "0",
+        "deaths": "0",
+        "assists": "9",
+        "champion": {
+          "id": "Yuumi",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Yuumi.png"
+        },
+        "creeps": "8",
+        "gold": "7000",
+        "items": [
+          {
+            "id": "3098",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3098.png"
+          },
+          {
+            "id": "2031",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2031.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "1082",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1082.png"
+          },
+          {
+            "id": "3174",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3174.png"
+          },
+          {
+            "id": "3802",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3802.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "7600",
+        "position": "support"
+      }
+    ],
+    "name": "DWG",
+    "gameLength": "22:43",
+    "firstBlood": {
+      "id": "Xayah",
+      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Xayah.png"
+    },
+    "bans": [
+      {
+        "id": "Tristana",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Tristana.png"
+      },
+      {
+        "id": "Syndra",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Syndra.png"
+      },
+      {
+        "id": "Pantheon",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Pantheon.png"
+      },
+      {
+        "id": "Braum",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Braum.png"
+      },
+      {
+        "id": "Pyke",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Pyke.png"
+      }
+    ],
+    "herald": " 1",
+    "barons": " 1",
+    "dragons": " 3",
+    "towers": " 10",
+    "inhibitors": " 2",
+    "win": true,
+    "goldDifferenceAt15": 8152
+  },
+  {
+    "players": [
+      {
+        "name": "Huni",
+        "kills": "1",
+        "deaths": "4",
+        "assists": "14",
+        "champion": {
+          "id": "Rumble",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Rumble.png"
+        },
+        "creeps": "209",
+        "gold": "10500",
+        "items": [
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "3191",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3191.png"
+          },
+          {
+            "id": "3151",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3151.png"
+          },
+          {
+            "id": "3135",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3135.png"
+          },
+          {
+            "id": "1026",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1026.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "16200",
+        "position": "top"
+      },
+      {
+        "name": "Lira",
+        "kills": "2",
+        "deaths": "0",
+        "assists": "16",
+        "champion": {
+          "id": "JarvanIV",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/JarvanIV.png"
+        },
+        "creeps": "172",
+        "gold": "10900",
+        "items": [
+          {
+            "id": "3047",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3047.png"
+          },
+          {
+            "id": "1413",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1413.png"
+          },
+          {
+            "id": "1011",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1011.png"
+          },
+          {
+            "id": "3082",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3082.png"
+          },
+          {
+            "id": "3193",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3193.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "5900",
+        "position": "jungle"
+      },
+      {
+        "name": "Damonte",
+        "kills": "6",
+        "deaths": "3",
+        "assists": "7",
+        "champion": {
+          "id": "Neeko",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Neeko.png"
+        },
+        "creeps": "217",
+        "gold": "11400",
+        "items": [
+          {
+            "id": "3113",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3113.png"
+          },
+          {
+            "id": "3030",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3030.png"
+          },
+          {
+            "id": "3157",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3157.png"
+          },
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "1082",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1082.png"
+          },
+          {
+            "id": "3916",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3916.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "11800",
+        "position": "mid"
+      },
+      {
+        "name": "Cody Sun",
+        "kills": "10",
+        "deaths": "0",
+        "assists": "4",
+        "champion": {
+          "id": "Kaisa",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Kaisa.png"
+        },
+        "creeps": "316",
+        "gold": "16400",
+        "items": [
+          {
+            "id": "3042",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3042.png"
+          },
+          {
+            "id": "3139",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3139.png"
+          },
+          {
+            "id": "3124",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3124.png"
+          },
+          {
+            "id": "3006",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3006.png"
+          },
+          {
+            "id": "3085",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3085.png"
+          },
+          {
+            "id": "1037",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1037.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "17600",
+        "position": "adc"
+      },
+      {
+        "name": "Vulcan",
+        "kills": "2",
+        "deaths": "2",
+        "assists": "9",
+        "champion": {
+          "id": "Pyke",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Pyke.png"
+        },
+        "creeps": "44",
+        "gold": "8200",
+        "items": [
+          {
+            "id": "2031",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2031.png"
+          },
+          {
+            "id": "3097",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3097.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "3117",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3117.png"
+          },
+          {
+            "id": "3147",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3147.png"
+          },
+          {
+            "id": "3134",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3134.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "4900",
+        "position": "support"
+      }
+    ],
+    "name": "CG",
+    "gameLength": "27:38",
+    "firstBlood": {
+      "id": "Renekton",
+      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Renekton.png"
+    },
+    "bans": [
+      {
+        "id": "LeeSin",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/LeeSin.png"
+      },
+      {
+        "id": "Qiyana",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Qiyana.png"
+      },
+      {
+        "id": "Olaf",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Olaf.png"
+      },
+      {
+        "id": "Ashe",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Ashe.png"
+      },
+      {
+        "id": "Lucian",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Lucian.png"
+      }
+    ],
+    "herald": " 1",
+    "barons": " 1",
+    "dragons": " 3",
+    "towers": " 8",
+    "inhibitors": " 1",
+    "win": true,
+    "goldDifferenceAt15": 4591
+  },
+  {
+    "players": [
+      {
+        "name": "Armut",
+        "kills": "2",
+        "deaths": "5",
+        "assists": "4",
+        "champion": {
+          "id": "Renekton",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Renekton.png"
+        },
+        "creeps": "197",
+        "gold": "9500",
+        "items": [
+          {
+            "id": "3161",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3161.png"
+          },
+          {
+            "id": "2421",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2421.png"
+          },
+          {
+            "id": "3077",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3077.png"
+          },
+          {
+            "id": "3111",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3111.png"
+          },
+          {
+            "id": "3211",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3211.png"
+          },
+          {
+            "id": "1028",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1028.png"
+          },
+          {
+            "id": "3340",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3340.png"
+          }
+        ],
+        "damage": "9500",
+        "position": "top"
+      },
+      {
+        "name": "Closer",
+        "kills": "4",
+        "deaths": "5",
+        "assists": "3",
+        "champion": {
+          "id": "Elise",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Elise.png"
+        },
+        "creeps": "113",
+        "gold": "8700",
+        "items": [
+          {
+            "id": "1402",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1402.png"
+          },
+          {
+            "id": "3165",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3165.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "1026",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1026.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "11200",
+        "position": "jungle"
+      },
+      {
+        "name": "Cyeol",
+        "kills": "3",
+        "deaths": "4",
+        "assists": "2",
+        "champion": {
+          "id": "Irelia",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Irelia.png"
+        },
+        "creeps": "238",
+        "gold": "10600",
+        "items": [
+          {
+            "id": "3111",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3111.png"
+          },
+          {
+            "id": "2420",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2420.png"
+          },
+          {
+            "id": "3077",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3077.png"
+          },
+          {
+            "id": "3078",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3078.png"
+          },
+          {
+            "id": "3053",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3053.png"
+          },
+          {
+            "id": "3340",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3340.png"
+          }
+        ],
+        "damage": "6000",
+        "position": "mid"
+      },
+      {
+        "name": "Pilot",
+        "kills": "0",
+        "deaths": "2",
+        "assists": "2",
+        "champion": {
+          "id": "Ezreal",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Ezreal.png"
+        },
+        "creeps": "261",
+        "gold": "9900",
+        "items": [
+          {
+            "id": "3153",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3153.png"
+          },
+          {
+            "id": "1055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1055.png"
+          },
+          {
+            "id": "2422",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2422.png"
+          },
+          {
+            "id": "3025",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3025.png"
+          },
+          {
+            "id": "3042",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3042.png"
+          },
+          {
+            "id": "3123",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3123.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "12800",
+        "position": "adc"
+      },
+      {
+        "name": "Tolerant",
+        "kills": "0",
+        "deaths": "5",
+        "assists": "1",
+        "champion": {
+          "id": "Thresh",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Thresh.png"
+        },
+        "creeps": "7",
+        "gold": "5800",
+        "items": [
+          {
+            "id": "3069",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3069.png"
+          },
+          {
+            "id": "2424",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2424.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "3107",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3107.png"
+          },
+          {
+            "id": "3117",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3117.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "3300",
+        "position": "support"
+      }
+    ],
+    "name": "RYL",
+    "gameLength": "27:38",
+    "firstBlood": {
+      "id": "Renekton",
+      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Renekton.png"
+    },
+    "bans": [
+      {
+        "id": "Pantheon",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Pantheon.png"
+      },
+      {
+        "id": "Syndra",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Syndra.png"
+      },
+      {
+        "id": "Rakan",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Rakan.png"
+      },
+      {
+        "id": "Nautilus",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Nautilus.png"
+      },
+      {
+        "id": "Alistar",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Alistar.png"
+      }
+    ],
+    "herald": " 0",
+    "barons": " 0",
+    "dragons": " 0",
+    "towers": " 2",
+    "inhibitors": " 0",
+    "win": false,
+    "goldDifferenceAt15": -4591
+  },
+  {
+    "players": [
+      {
+        "name": "Huni",
+        "kills": "2",
+        "deaths": "2",
+        "assists": "9",
+        "champion": {
+          "id": "Ezreal",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Ezreal.png"
+        },
+        "creeps": "294",
+        "gold": "16700",
+        "items": [
+          {
+            "id": "3153",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3153.png"
+          },
+          {
+            "id": "3042",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3042.png"
+          },
+          {
+            "id": "3072",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3072.png"
+          },
+          {
+            "id": "3158",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3158.png"
+          },
+          {
+            "id": "3025",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3025.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "21900",
+        "position": "top"
+      },
+      {
+        "name": "Lira",
+        "kills": "2",
+        "deaths": "1",
+        "assists": "6",
+        "champion": {
+          "id": "RekSai",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/RekSai.png"
+        },
+        "creeps": "216",
+        "gold": "12700",
+        "items": [
+          {
+            "id": "3053",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3053.png"
+          },
+          {
+            "id": "3047",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3047.png"
+          },
+          {
+            "id": "1011",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1011.png"
+          },
+          {
+            "id": "1412",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1412.png"
+          },
+          {
+            "id": "3105",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3105.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "7100",
+        "position": "jungle"
+      },
+      {
+        "name": "Damonte",
+        "kills": "3",
+        "deaths": "1",
+        "assists": "5",
+        "champion": {
+          "id": "Syndra",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Syndra.png"
+        },
+        "creeps": "360",
+        "gold": "15600",
+        "items": [
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "3916",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3916.png"
+          },
+          {
+            "id": "2421",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2421.png"
+          },
+          {
+            "id": "3285",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3285.png"
+          },
+          {
+            "id": "3089",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3089.png"
+          },
+          {
+            "id": "1058",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1058.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "12800",
+        "position": "mid"
+      },
+      {
+        "name": "Cody Sun",
+        "kills": "11",
+        "deaths": "0",
+        "assists": "4",
+        "champion": {
+          "id": "Lucian",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Lucian.png"
+        },
+        "creeps": "362",
+        "gold": "20000",
+        "items": [
+          {
+            "id": "3508",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3508.png"
+          },
+          {
+            "id": "3094",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3094.png"
+          },
+          {
+            "id": "3086",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3086.png"
+          },
+          {
+            "id": "3006",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3006.png"
+          },
+          {
+            "id": "3031",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3031.png"
+          },
+          {
+            "id": "3072",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3072.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "18900",
+        "position": "adc"
+      },
+      {
+        "name": "Vulcan",
+        "kills": "1",
+        "deaths": "3",
+        "assists": "12",
+        "champion": {
+          "id": "Thresh",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Thresh.png"
+        },
+        "creeps": "10",
+        "gold": "10000",
+        "items": [
+          {
+            "id": "1033",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1033.png"
+          },
+          {
+            "id": "3069",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3069.png"
+          },
+          {
+            "id": "3107",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3107.png"
+          },
+          {
+            "id": "3117",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3117.png"
+          },
+          {
+            "id": "3024",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3024.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "4700",
+        "position": "support"
+      }
+    ],
+    "name": "CG",
+    "gameLength": "36:59",
+    "firstBlood": {
+      "id": "Thresh",
+      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Thresh.png"
+    },
+    "bans": [
+      {
+        "id": "LeeSin",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/LeeSin.png"
+      },
+      {
+        "id": "Qiyana",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Qiyana.png"
+      },
+      {
+        "id": "Olaf",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Olaf.png"
+      },
+      {
+        "id": "Rakan",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Rakan.png"
+      },
+      {
+        "id": "Camille",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Camille.png"
+      }
+    ],
+    "herald": " 1",
+    "barons": " 2",
+    "dragons": " 6",
+    "towers": " 11",
+    "inhibitors": " 6",
+    "win": true,
+    "goldDifferenceAt15": 5457
+  },
+  {
+    "players": [
+      {
+        "name": "Armut",
+        "kills": "1",
+        "deaths": "3",
+        "assists": "6",
+        "champion": {
+          "id": "Jayce",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Jayce.png"
+        },
+        "creeps": "355",
+        "gold": "15800",
+        "items": [
+          {
+            "id": "3142",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3142.png"
+          },
+          {
+            "id": "3071",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3071.png"
+          },
+          {
+            "id": "1037",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1037.png"
+          },
+          {
+            "id": "3047",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3047.png"
+          },
+          {
+            "id": "3147",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3147.png"
+          },
+          {
+            "id": "3026",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3026.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "16500",
+        "position": "top"
+      },
+      {
+        "name": "Closer",
+        "kills": "0",
+        "deaths": "4",
+        "assists": "7",
+        "champion": {
+          "id": "JarvanIV",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/JarvanIV.png"
+        },
+        "creeps": "115",
+        "gold": "8500",
+        "items": [
+          {
+            "id": "3193",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3193.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "1029",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1029.png"
+          },
+          {
+            "id": "1028",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1028.png"
+          },
+          {
+            "id": "1413",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1413.png"
+          },
+          {
+            "id": "3111",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3111.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "3500",
+        "position": "jungle"
+      },
+      {
+        "name": "Cyeol",
+        "kills": "0",
+        "deaths": "3",
+        "assists": "5",
+        "champion": {
+          "id": "Orianna",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Orianna.png"
+        },
+        "creeps": "309",
+        "gold": "11900",
+        "items": [
+          {
+            "id": "3020",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3020.png"
+          },
+          {
+            "id": "3285",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3285.png"
+          },
+          {
+            "id": "3102",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3102.png"
+          },
+          {
+            "id": "1058",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1058.png"
+          },
+          {
+            "id": "1058",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1058.png"
+          },
+          {
+            "id": "1056",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1056.png"
+          },
+          {
+            "id": "3340",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3340.png"
+          }
+        ],
+        "damage": "12800",
+        "position": "mid"
+      },
+      {
+        "name": "Pilot",
+        "kills": "4",
+        "deaths": "4",
+        "assists": "1",
+        "champion": {
+          "id": "Kaisa",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Kaisa.png"
+        },
+        "creeps": "343",
+        "gold": "15600",
+        "items": [
+          {
+            "id": "3157",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3157.png"
+          },
+          {
+            "id": "3115",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3115.png"
+          },
+          {
+            "id": "3006",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3006.png"
+          },
+          {
+            "id": "3042",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3042.png"
+          },
+          {
+            "id": "3124",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3124.png"
+          },
+          {
+            "id": "1026",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/1026.png"
+          },
+          {
+            "id": "3363",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3363.png"
+          }
+        ],
+        "damage": "11900",
+        "position": "adc"
+      },
+      {
+        "name": "Tolerant",
+        "kills": "2",
+        "deaths": "5",
+        "assists": "2",
+        "champion": {
+          "id": "Blitzcrank",
+          "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Blitzcrank.png"
+        },
+        "creeps": "18",
+        "gold": "8300",
+        "items": [
+          {
+            "id": "3069",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3069.png"
+          },
+          {
+            "id": "3800",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3800.png"
+          },
+          {
+            "id": "2055",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/2055.png"
+          },
+          {
+            "id": "3117",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3117.png"
+          },
+          {
+            "id": "3801",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3801.png"
+          },
+          {
+            "id": "3364",
+            "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/item/3364.png"
+          }
+        ],
+        "damage": "2900",
+        "position": "support"
+      }
+    ],
+    "name": "RYL",
+    "gameLength": "36:59",
+    "firstBlood": {
+      "id": "Thresh",
+      "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Thresh.png"
+    },
+    "bans": [
+      {
+        "id": "Pantheon",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Pantheon.png"
+      },
+      {
+        "id": "Rumble",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Rumble.png"
+      },
+      {
+        "id": "Gangplank",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Gangplank.png"
+      },
+      {
+        "id": "Irelia",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Irelia.png"
+      },
+      {
+        "id": "Leblanc",
+        "image": "https://ddragon.leagueoflegends.com/cdn/9.19.1/img/champion/Leblanc.png"
+      }
+    ],
+    "herald": " 0",
+    "barons": " 0",
+    "dragons": " 0",
+    "towers": " 3",
+    "inhibitors": " 0",
+    "win": false,
+    "goldDifferenceAt15": -5457
   }
 ]
