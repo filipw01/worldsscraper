@@ -5,7 +5,7 @@ const puppeteer = require("puppeteer");
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
   await page.goto(
-    "https://lol.gamepedia.com/2019_Season_World_Championship/Play-In",
+    "https://lol.gamepedia.com/2019_Season_World_Championship/Main_Event",
     {
       waitUntil: "load",
       timeout: 0
@@ -244,7 +244,7 @@ const puppeteer = require("puppeteer");
   }
   console.log("All " + finalData.length / 2 + " games have been scrapped");
 
-  fs.writeFile("playIn.json", JSON.stringify(finalData), "utf8", function(err) {
+  fs.writeFile("mainEvent.json", JSON.stringify(finalData), "utf8", function(err) {
     if (err) {
       console.log("An error occured while writing JSON Object to File.");
       return console.log(err);
@@ -252,6 +252,5 @@ const puppeteer = require("puppeteer");
 
     console.log("JSON file has been saved.");
   });
-  // await page.$eval("#user_login", (el, username) => (el.value = username), config.username);
   await browser.close();
 })();
