@@ -2,7 +2,10 @@ const fs = require("fs");
 const puppeteer = require("puppeteer");
 
 (async () => {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({
+    headless: true,
+    defaultViewport: null
+  });
   const page = await browser.newPage();
   await page.goto(
     "https://lol.gamepedia.com/2019_Season_World_Championship/Main_Event",
@@ -145,16 +148,20 @@ const puppeteer = require("puppeteer");
         ".bans-container .champion-icon > div"
       );
       for (let iterator = 0; iterator < 10; iterator++) {
-        if (iterator < 5) {
-          bans.push({
-            id: bansNodes[iterator].dataset.rgId,
-            image: bansNodes[iterator].firstChild.src
-          });
-        } else {
-          bans2.push({
-            id: bansNodes[iterator].dataset.rgId,
-            image: bansNodes[iterator].firstChild.src
-          });
+        try {
+          if (iterator < 5) {
+            bans.push({
+              id: bansNodes[iterator].dataset.rgId,
+              image: bansNodes[iterator].firstChild.src
+            });
+          } else {
+            bans2.push({
+              id: bansNodes[iterator].dataset.rgId,
+              image: bansNodes[iterator].firstChild.src
+            });
+          }
+        } catch (e) {
+          console.log(e);
         }
       }
       team.bans = bans;
@@ -244,7 +251,9 @@ const puppeteer = require("puppeteer");
   }
   console.log("All " + finalData.length / 2 + " games have been scrapped");
 
-  fs.writeFile("mainEvent.json", JSON.stringify(finalData), "utf8", function(err) {
+  fs.writeFile("mainEvent.json", JSON.stringify(finalData), "utf8", function(
+    err
+  ) {
     if (err) {
       console.log("An error occured while writing JSON Object to File.");
       return console.log(err);
